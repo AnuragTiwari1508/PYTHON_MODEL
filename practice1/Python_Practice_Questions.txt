@@ -1,0 +1,114 @@
+PYTHON PRACTICE QUESTIONS - INTERMEDIATE LEVEL
+================================================
+
+Here are 10 well-designed Python practice questions that will help you strengthen your programming skills:
+
+1. PALINDROME CHECKER
+   Write a function that checks if a given string is a palindrome (reads the same forwards and backwards).
+   Ignore spaces, punctuation, and case.
+   Example: "A man a plan a canal Panama" should return True.
+
+2. PRIME NUMBER GENERATOR
+   Create a function that generates all prime numbers up to a given number N using the Sieve of Eratosthenes algorithm.
+   Return the list of prime numbers.
+   Example: primes_up_to(30) should return [2, 3, 5, 7, 11, 13, 17, 19, 23, 29]
+
+3. WORD FREQUENCY COUNTER
+   Write a program that reads a text and returns a dictionary with word frequencies.
+   Ignore case and punctuation.
+   Example: "Hello world! Hello Python world." should return {'hello': 2, 'world': 2, 'python': 1}
+
+4. MATRIX OPERATIONS
+   Create functions to perform basic matrix operations:
+   - Add two matrices
+   - Multiply two matrices
+   - Transpose a matrix
+   Handle different matrix dimensions appropriately.
+
+5. PASSWORD STRENGTH VALIDATOR
+   Write a function that validates password strength based on these criteria:
+   - At least 8 characters long
+   - Contains uppercase and lowercase letters
+   - Contains at least one digit
+   - Contains at least one special character (!@#$%^&*)
+   Return strength level: Weak, Medium, Strong
+
+6. FIBONACCI WITH MEMOIZATION
+   Implement the Fibonacci sequence using memoization technique to improve performance.
+   Compare the execution time with regular recursion.
+   Calculate the 40th Fibonacci number efficiently.
+
+7. LIST COMPREHENSION CHALLENGES
+   Solve these using list comprehensions:
+   - Generate squares of even numbers from 1 to 100
+   - Create a list of words longer than 5 characters from a sentence
+   - Flatten a 2D list into 1D list
+   - Generate multiplication table (1-10) as nested lists
+
+8. FILE PROCESSING SYSTEM
+   Create a program that:
+   - Reads data from a CSV-like text file
+   - Processes the data (calculate averages, find max/min)
+   - Writes results to a new file
+   - Handle file not found and data format errors
+
+9. CLASS INHERITANCE PROJECT
+   Design a class hierarchy for a library management system:
+   - Base class: LibraryItem (title, author, year)
+   - Derived classes: Book, Magazine, DVD
+   - Implement methods: checkout, return, display_info
+   - Add specific attributes for each type
+
+10. ADVANCED STRING MANIPULATION
+    Write functions to:
+    - Remove duplicate characters from a string while maintaining order
+    - Find the longest common subsequence between two strings
+    - Compress a string using run-length encoding (aaabbc -> a3b2c1)
+    - Validate if parentheses are properly balanced in an expression
+
+BONUS CHALLENGES:
+===============
+
+11. DECORATOR PRACTICE
+    Create decorators for:
+    - Timing function execution
+    - Logging function calls with arguments
+    - Caching function results
+    - Input validation
+
+12. GENERATOR FUNCTIONS
+    Implement generators for:
+    - Infinite sequence of prime numbers
+    - Reading large files line by line
+    - Generating permutations of a list
+    - Creating custom range with step functions
+
+DIFFICULTY LEVELS:
+==================
+Questions 1-4: Beginner to Intermediate
+Questions 5-8: Intermediate
+Questions 9-10: Intermediate to Advanced
+Bonus Questions: Advanced
+
+LEARNING OBJECTIVES:
+===================
+- String manipulation and algorithms
+- Mathematical computations
+- Data structures (lists, dictionaries, sets)
+- File I/O operations
+- Object-oriented programming
+- Error handling
+- Performance optimization
+- Advanced Python features
+
+TIPS FOR SOLVING:
+=================
+1. Break down complex problems into smaller functions
+2. Write test cases before implementing
+3. Consider edge cases and error handling
+4. Use appropriate data structures
+5. Focus on code readability and documentation
+6. Optimize for both time and space complexity
+
+Happy Coding! 🐍
+================
