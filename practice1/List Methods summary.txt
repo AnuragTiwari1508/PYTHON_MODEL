@@ -1,0 +1,9 @@
+l.pop(x) - remove
+l.append(x)- add x at end of list
+l.sort()(small to large) + l.sort(reverse=true)(opposite of sort()) - Sort the list in order 
+l.reverse() - just reverse same list
+l.index(x),l.find(x) - index find kar dega X ka and also in dono sirf ye diff he index wala error deta he agar wo no. present nhi he and find error nhi dega
+l.count(x) - no. of times X in list
+l.extend(m) - m list will add on in l list 
+l.insert(x,y) -**imp.  x is index means X inde par y ko insert kar dega
+l.copy()  l ko copy kar dega  m= L.copy() likhne par m me
