@@ -76,7 +76,7 @@ This repository serves as a practical learning resource covering:
 
 ## 🤝 Learning Resources
 
-This repository represents my personal learning journey in Python programming. Each program demonstrates different concepts and gradually builds complexity.
+This repository represents my personal learning journey in Python programming. Each program demonstrates different concepts and gradually builds complexity. I am using VS code
 
 ---
 
